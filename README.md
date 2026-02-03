@@ -25,7 +25,7 @@ A análise demonstra a aplicação de técnicas de Ciência de Dados para descob
 
 
   
-1.  **Conversão de Dados:** Transformação de variáveis do tipo *String* em *Int* para viabilizar a execução de cálculos estatísticos.
+1.  **Conversão de Dados:** Transformação de variáveis do tipo *Float* em *Int* para viabilizar a execução de cálculos estatísticos.
 
 2.  **Tratamento de Dados:** Padronização do ano de lançamento para garantir a consistência temporal da análise e integridade dos dados.
     
