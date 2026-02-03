@@ -24,9 +24,9 @@ A análise demonstra a aplicação de técnicas de Ciência de Dados para descob
 
 
 
-1.  **Tratamento de Dados:** Padronização do ano de lançamento para garantir a consistência temporal da análise e integridade dos dados históricos.
+1.  **Tratamento de Dados:** Padronização do ano de lançamento para garantir a consistência temporal da análise e integridade dos dados.
 
-2.  **Conversão de Dados:** Transformação de variáveis do tipo *String* em *Int* para viabilizar a execução de cálculos estatísticos e modelos matemáticos.
+2.  **Conversão de Dados:** Transformação de variáveis do tipo *String* em *Int* para viabilizar a execução de cálculos estatísticos.
 
 3.  **Análise de Correlação:** Aplicação do método de **Pearson** para medir a força e a direção da relação entre diferentes variáveis do dataset.
 
