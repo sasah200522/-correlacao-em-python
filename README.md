@@ -1,19 +1,37 @@
 # Projeto de Análise de Correlação de Sucesso na Indústria do Cinema
 
-Este projeto investiga os principais fatores que influenciam o sucesso financeiro dos filmes, utilizando Python para processar dados históricos e identificar quais variáveis (como orçamento e votos) possuem maior impacto na receita.
+
+
+Este projeto investiga os principais fatores que influenciam o sucesso financeiro dos filmes, utilizando Python para processar dados históricos e identificar quais variáveis possuem maior impacto na receita.
+
+
 
 ## 📂 Estrutura de Arquivos
 
+
+
 * **`Project - Correlation in Python (2).ipynb`**: O projeto. Contém toda a lógica de limpeza, análise estatística e geração de visualizações em Python.
+
 * **`movies.csv`**: O dataset. Base de dados bruta contendo informações sobre filmes, orçamentos, notas e faturamento.
+
+
 
 ## 📊 Conclusão e Habilidades Aplicadas
 
+
+
 A análise demonstra a aplicação de técnicas de Ciência de Dados para descoberta de padrões:
 
+
+
 1.  **Tratamento de Dados:** Padronização do ano de lançamento para garantir a consistência temporal da análise e integridade dos dados históricos.
+
 2.  **Conversão de Dados:** Transformação de variáveis do tipo *String* em *Int* para viabilizar a execução de cálculos estatísticos e modelos matemáticos.
+
 3.  **Análise de Correlação:** Aplicação do método de **Pearson** para medir a força e a direção da relação entre diferentes variáveis do dataset.
+
 4.  **Visualização de Dados:** Construção de múltiplos gráficos (**Scatter Plots, Regressão e Heatmaps**) para interpretar visualmente tendências e validar as correlações encontradas.
+
+
 
 ---
