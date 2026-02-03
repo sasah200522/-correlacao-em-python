@@ -10,7 +10,7 @@ Este projeto investiga os principais fatores que influenciam o sucesso financeir
 
 
 
-* **`Project - Correlation in Python.ipynb`**: O projeto. Contém toda a lógica de limpeza, análise estatística e geração de visualizações em Python.
+* **`Project - Movie Correlation in Python.ipynb`**: O projeto. Contém toda a lógica de limpeza, análise estatística e geração de visualizações em Python.
 
 * **`movies.csv`**: O dataset. Base de dados bruta contendo informações sobre filmes, orçamentos, notas e faturamento.
 
