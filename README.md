@@ -24,10 +24,11 @@ A análise demonstra a aplicação de técnicas de Ciência de Dados para descob
 
 
 
-1.  **Tratamento de Dados:** Padronização do ano de lançamento para garantir a consistência temporal da análise e integridade dos dados.
+  
+1.  **Conversão de Dados:** Transformação de variáveis do tipo *String* em *Int* para viabilizar a execução de cálculos estatísticos.
 
-2.  **Conversão de Dados:** Transformação de variáveis do tipo *String* em *Int* para viabilizar a execução de cálculos estatísticos.
-
+2.  **Tratamento de Dados:** Padronização do ano de lançamento para garantir a consistência temporal da análise e integridade dos dados.
+    
 3.  **Análise de Correlação:** Aplicação do método de **Pearson** para medir a força e a direção da relação entre diferentes variáveis do dataset.
 
 4.  **Visualização de Dados:** Construção de múltiplos gráficos (**Scatter Plots, Regressão e Heatmaps**) para interpretar visualmente tendências e validar as correlações encontradas.
